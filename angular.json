@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Workshop"
+  "defaultProject": "Workshop",
+  "cli": {
+    "analytics": false
+  }
 }
